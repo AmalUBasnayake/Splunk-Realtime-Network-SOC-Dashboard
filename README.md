@@ -51,4 +51,4 @@ Tracking which internal devices are generating the most traffic and their destin
 3.  **Visualize:** SPL queries transform raw logs into the visual components shown above.
 
 ---
-**Developed by [Your Name/Handle]** 🚀
+**Developed by Amal Udayanga Basnayake** 🚀
